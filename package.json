@@ -1,0 +1,34 @@
+{
+  "name": "generator-reactjs-project",
+  "version": "0.0.1",
+  "description": "Yeoman Generator for ReactJS Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismailatkurt/generator-reactjs-project.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "reactjs",
+    "react",
+    "javascript",
+    "react-generator",
+    "reactjs-generator",
+    "generator"
+  ],
+  "author": "Ismail Atkurt <ismail.atkurt@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ismailatkurt/generator-reactjs-project/issues"
+  },
+  "homepage": "https://github.com/ismailatkurt/generator-reactjs-project#readme",
+  "dependencies": {
+    "yeoman-generator": "^3.2.0"
+  },
+  "files": [
+    "app"
+  ]
+}
